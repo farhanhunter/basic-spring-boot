@@ -1,0 +1,9 @@
+GET http://localhost:8080/v1/products
+
+### POST USER
+POST http://localhost:8080/v1/products
+Accept: application/json
+Content-Type: application/json
+{
+
+}
